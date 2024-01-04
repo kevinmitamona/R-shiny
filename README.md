@@ -2,6 +2,7 @@
 
 
 I'm a Master I student in data and artificial intelligence project management, with a passion for IT development and data processing.
+
 ![](https://i.imgur.com/ahjHe3h.jpeg)
 
 ## About  Rshiny web app the Project
