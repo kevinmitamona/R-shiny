@@ -1,24 +1,57 @@
-# R-shiny
-
-##Analyse des données sur le criminalité
+# Hi everyone👋
 
 
-Emphaise
-*Texte en italic
-**Texte en gras
+I'm a Master I student in data and artificial intelligence project management, with a passion for IT development and data processing.
+![](https://i.imgur.com/ahjHe3h.jpeg)
 
-Liste
--ffffffff
- -dhhshsh : Liste indentée
+## About  Rshiny web app the Project
 
-![nom](https://s.france24.com/media/display/48615024-e4b0-11eb-9773-005056a90284/w:980/p:16x9/1bb7e4c7fba86598de2f5df9df91cc53fbc8e8c6.webp)
+This project is a R Shiny application developed to analyse crime data 2020. 
 
-Kevin said 
->Only work pays
->So work hard
+This study identifies tendances, categories of persons most impacted by the criminality and places were it happened.
 
-`Ceci est du  code`
+## Getting Started
 
-```python
-2+2
-```
+### Prerequisites
+
+- R (version 3.6.0 or higher)
+- RStudio
+- Shiny package
+
+### Installation
+
+1. Clone the repo:
+   ```sh
+  https://github.com/kvnmits/R-shiny.git
+   ```
+2. Open the project in RStudio and install the required packages:
+   ```R
+   install.packages("shiny")
+   install.package("dlpyr")
+   install.packages("tidyverse")
+   install.packages("leaflet")
+   install.packages("shinydashboard")
+   ```
+
+## Usage
+
+Run the application locally by opening the `App.R` file in RStudio and clicking 'Run App'. 
+
+## Application Structure
+
+- `ui.R`: Defines the user interface where the user inputs their data.
+- `server.R`: Contains the server logic to reactively update the outputs based on user input.
+
+## Data
+
+The application uses the crime data that your can find here:
+[Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+
+## Contact
+ 
+- [LinkedIn](https://www.linkedin.com/in/kevin-mitamona/) 
+- [Email](kvnmitamona@gmail.com)
+
+
+
+
